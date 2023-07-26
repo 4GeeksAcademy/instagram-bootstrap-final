@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+.container{
+    padding: 15px;
+}
+img{
+    max-height: 500px;
+    max-width: 500px;
+    padding: 15px;
+}
+
+
